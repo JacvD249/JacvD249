@@ -4,9 +4,11 @@
 
 𝗜'𝗺 [Jacv D. (Jesus Chavez)](https://github.com/jacvd249)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 books 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/jacv249)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:jacv.d249@gmail..com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jacv.d249)](https://github.com/jacv.d249)
+![Age](https://img.shields.io/badge/Age-24-black)
+![Focus](https://img.shields.io/badge/Focus-Fullstack-darkgreen)
+![Living](https://img.shields.io/badge/Living-Mazatlan-blue)
+![Job](https://img.shields.io/badge/Job-GrupoGBP-white)
+
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jacvd249)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jacvd249&show_icons=true&hide_border=true"> -->
